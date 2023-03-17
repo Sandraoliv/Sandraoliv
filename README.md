@@ -1,4 +1,5 @@
-### Olá , eu sou a Sandra !👋
+### Olá , tudo bem?
+eu sou a Sandra , 
 Atualmente trabalho com front end.
 Estou estudando Back end.
 
