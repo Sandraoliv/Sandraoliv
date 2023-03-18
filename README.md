@@ -1,6 +1,6 @@
 ### Olá , tudo bem?
 eu sou a Sandra , 
-eu trabalho com front end e
+desenvolvedora front end e
 estou  atualmente estudando Back end.
 
 
