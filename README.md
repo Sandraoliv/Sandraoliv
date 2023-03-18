@@ -15,7 +15,7 @@ desenvolvedora front end .
 ## Contatos:
 
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/sandra-oliveira-46b204208)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](" sandra.so@gmail.com")
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]( sandra.so@gmail.com)
 
 ## Tecnologias que eu uso:
 <div style ="inline_block">
