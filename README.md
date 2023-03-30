@@ -1,6 +1,7 @@
 ### Olá , tudo bem?
 eu sou a Sandra , 
-desenvolvedora front end .
+desenvolvedora front end .<br>
+Apaixonada por tecnologia,  adoro resolver enigmas.
 
 ##
 
