@@ -1,7 +1,8 @@
 ### Olá , tudo bem?
 eu sou a Sandra , 
 desenvolvedora front end .<br>
-Apaixonada por tecnologia,  adoro resolver enigmas.
+Apaixonada por tecnologia,  adoro resolver enigmas.<br>
+Meus primeiros contatos com a programação foram por curiosidade, e oque era curiosidade logo se tornou uma paixão, e hoje não me imagino fazendo outra coisa.
 
 ##
 
