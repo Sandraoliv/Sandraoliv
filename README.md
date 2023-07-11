@@ -16,7 +16,7 @@ Meus primeiros contatos com a programação foram por curiosidade, e oque era cu
 ## Tecnologias que eu uso:
 <div style ="inline_block">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="30" heigth="30"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" heigth="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" heigth="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"   width="30" heigth="30" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="30" heigth="30" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="30" heigth="30" />
@@ -24,12 +24,11 @@ Meus primeiros contatos com a programação foram por curiosidade, e oque era cu
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"  width="30" heigth="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="30" heigth="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" heigth="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30" heigth="30"/>
-          
-  
-           
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30" heigth="30"/>        
   </div>
+
+
+
  
  
 
