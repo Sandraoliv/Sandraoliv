@@ -23,16 +23,15 @@ Meus primeiros contatos com a programação foram por curiosidade, e oque era cu
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="30" heigth="30"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"  width="30" heigth="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="30" heigth="30" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" heigth="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" heigth="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30" heigth="30"/>
+          
   
            
           
   </div>
  
  
-
-##
- ![Sandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandraoliv&show_icons=true&theme=radical)
 
 
 
