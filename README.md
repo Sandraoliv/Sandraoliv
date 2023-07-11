@@ -27,7 +27,15 @@ Meus primeiros contatos com a programação foram por curiosidade, e oque era cu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30" heigth="30"/>        
   </div>
  
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+## Aprendendo :
+<div justfy="center" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"  width="30" heigth="30" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" heigth="30"/>
+</div>
+  
+ 
+          
+          
 
 
 
