@@ -2,7 +2,7 @@
 Bem vindo ao meu github ,
 eu sou a Sandra
 desenvolvedora front end .<br>
-Apaixonada por tecnologia,  adoro resolver enigmas.<br>
+Apaixonada por tecnologia,  adoro desafios e estou sempre em busca de aprender algo novo.<br>
 Meus primeiros contatos com a programação foram por curiosidade, e oque era curiosidade logo se tornou uma paixão, e hoje não me imagino fazendo outra coisa.
 
 ##
