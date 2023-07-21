@@ -1,6 +1,6 @@
 ### Olá , tudo bem?
 Bem vindo ao meu github ,
-eu sou a Sandra
+eu me chamo Sandra Oliveira,
 desenvolvedora front end .<br>
 Apaixonada por tecnologia,  adoro desafios e estou sempre em busca de aprender algo novo.<br>
 Meus primeiros contatos com a programação foram por curiosidade, e oque era curiosidade logo se tornou uma paixão, e hoje não me imagino fazendo outra coisa.
