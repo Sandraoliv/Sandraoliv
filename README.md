@@ -8,7 +8,7 @@ Meus primeiros contatos com a programação foram por curiosidade, e oque era cu
 ##
 
 
-## Contatos:
+## Onde me encontrar:
 
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/sandra-oliveira-46b204208)
   <a href = "mailto:sandra.so219@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
