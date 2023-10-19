@@ -29,7 +29,7 @@ Meus primeiros contatos com a programação foram por curiosidade, e oque era cu
   </div>
  
 ## Aprendendo :
-<div justify="center" >
+<div justify-content="center" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"  width="30" heigth="30" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" heigth="30"/>
 </div>
